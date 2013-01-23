@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="us-sicm-db2001" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Structure and Interpretation of Classical Mechanics</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0" playOrder="0">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="book-Z-H-5.html#%_chap_Temp_2"/>
+    </navPoint>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="book-Z-H-6.html#%_chap_Temp_7"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>1  Lagrangian Mechanics</text>
+      </navLabel>
+      <content src="book-Z-H-7.html#%_chap_1"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>1.1  The Principle of Stationary Action</text>
+      </navLabel>
+      <content src="book-Z-H-8.html#%_sec_1.1"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Experience of motion</text>
+      </navLabel>
+      <content src="book-Z-H-8.html#%_sec_Temp_10"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Realizable paths</text>
+      </navLabel>
+      <content src="book-Z-H-8.html#%_sec_Temp_13"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>1.2  Configuration Spaces</text>
+      </navLabel>
+      <content src="book-Z-H-9.html#%_sec_1.2"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>1.3  Generalized Coordinates</text>
+      </navLabel>
+      <content src="book-Z-H-10.html#%_sec_1.3"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Lagrangians in generalized coordinates</text>
+      </navLabel>
+      <content src="book-Z-H-10.html#%_sec_Temp_36"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>1.4  Computing Actions</text>
+      </navLabel>
+      <content src="book-Z-H-11.html#%_sec_1.4"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Paths of minimum action</text>
+      </navLabel>
+      <content src="book-Z-H-11.html#%_sec_Temp_53"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Finding trajectories that minimize the action</text>
+      </navLabel>
+      <content src="book-Z-H-11.html#%_sec_Temp_58"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>1.5  The Euler-Lagrange Equations</text>
+      </navLabel>
+      <content src="book-Z-H-12.html#%_sec_1.5"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Lagrange equations</text>
+      </navLabel>
+      <content src="book-Z-H-12.html#%_sec_Temp_67"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>1.5.1  Derivation of the Lagrange Equations</text>
+      </navLabel>
+      <content src="book-Z-H-12.html#%_sec_1.5.1"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Varying a path</text>
+      </navLabel>
+      <content src="book-Z-H-12.html#%_sec_Temp_70"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Varying the action</text>
+      </navLabel>
+      <content src="book-Z-H-12.html#%_sec_Temp_74"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Harmonic oscillator</text>
+      </navLabel>
+      <content src="book-Z-H-12.html#%_sec_Temp_77"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Orbital motion</text>
+      </navLabel>
+      <content src="book-Z-H-12.html#%_sec_Temp_78"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>1.5.2  Computing Lagrange's Equations</text>
+      </navLabel>
+      <content src="book-Z-H-12.html#%_sec_1.5.2"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>The free particle</text>
+      </navLabel>
+      <content src="book-Z-H-12.html#%_sec_Temp_86"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>The harmonic oscillator</text>
+      </navLabel>
+      <content src="book-Z-H-12.html#%_sec_Temp_89"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>1.6  How to Find Lagrangians</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_1.6"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Hamilton's principle</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_Temp_94"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Constant acceleration</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_Temp_96"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Central force field</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_Temp_98"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>1.6.1  Coordinate Transformations</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_1.6.1"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>1.6.2  Systems with Rigid Constraints</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_1.6.2"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Lagrangians for rigidly constrained systems</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_Temp_103"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>A pendulum driven at the pivot</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_Temp_105"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Why it works</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_Temp_112"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>More generally</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_Temp_117"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>1.6.3  Constraints as Coordinate Transformations</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_1.6.3"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>1.6.4  The Lagrangian Is Not Unique</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_1.6.4"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Total time derivatives</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_Temp_122"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Adding total time derivatives to Lagrangians</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_Temp_125"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Identification of total time derivatives</text>
+      </navLabel>
+      <content src="book-Z-H-13.html#%_sec_Temp_127"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>1.7  Evolution of Dynamical State</text>
+      </navLabel>
+      <content src="book-Z-H-14.html#%_sec_1.7"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Numerical integration</text>
+      </navLabel>
+      <content src="book-Z-H-14.html#%_sec_Temp_132"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>1.8  Conserved Quantities</text>
+      </navLabel>
+      <content src="book-Z-H-15.html#%_sec_1.8"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>1.8.1  Conserved Momenta</text>
+      </navLabel>
+      <content src="book-Z-H-15.html#%_sec_1.8.1"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Examples of conserved momenta</text>
+      </navLabel>
+      <content src="book-Z-H-15.html#%_sec_Temp_139"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>1.8.2  Energy Conservation</text>
+      </navLabel>
+      <content src="book-Z-H-15.html#%_sec_1.8.2"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Energy in terms of kinetic and potential energies</text>
+      </navLabel>
+      <content src="book-Z-H-15.html#%_sec_Temp_142"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>1.8.3  Central Forces in Three Dimensions</text>
+      </navLabel>
+      <content src="book-Z-H-15.html#%_sec_1.8.3"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>1.8.4  Noether's Theorem</text>
+      </navLabel>
+      <content src="book-Z-H-15.html#%_sec_1.8.4"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Illustration: motion in a central potential</text>
+      </navLabel>
+      <content src="book-Z-H-15.html#%_sec_Temp_148"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>1.9  Abstraction of Path Functions</text>
+      </navLabel>
+      <content src="book-Z-H-16.html#%_sec_1.9"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Lagrange equations at a moment</text>
+      </navLabel>
+      <content src="book-Z-H-16.html#%_sec_Temp_152"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>1.10  Constrained Motion</text>
+      </navLabel>
+      <content src="book-Z-H-17.html#%_sec_1.10"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>1.10.1  Coordinate Constraints</text>
+      </navLabel>
+      <content src="book-Z-H-17.html#%_sec_1.10.1"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Now watch this</text>
+      </navLabel>
+      <content src="book-Z-H-17.html#%_sec_Temp_157"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Alternatively</text>
+      </navLabel>
+      <content src="book-Z-H-17.html#%_sec_Temp_158"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>The pendulum using constraints</text>
+      </navLabel>
+      <content src="book-Z-H-17.html#%_sec_Temp_160"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Building systems from parts</text>
+      </navLabel>
+      <content src="book-Z-H-17.html#%_sec_Temp_163"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>1.10.2  Derivative Constraints</text>
+      </navLabel>
+      <content src="book-Z-H-17.html#%_sec_1.10.2"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Goldstein's hoop</text>
+      </navLabel>
+      <content src="book-Z-H-17.html#%_sec_Temp_168"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>1.10.3  Nonholonomic Systems</text>
+      </navLabel>
+      <content src="book-Z-H-17.html#%_sec_1.10.3"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>1.11  Summary</text>
+      </navLabel>
+      <content src="book-Z-H-18.html#%_sec_1.11"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>1.12  Projects</text>
+      </navLabel>
+      <content src="book-Z-H-19.html#%_sec_1.12"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>2  Rigid Bodies</text>
+      </navLabel>
+      <content src="book-Z-H-20.html#%_chap_2"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>2.1  Rotational Kinetic Energy</text>
+      </navLabel>
+      <content src="book-Z-H-21.html#%_sec_2.1"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>2.2  Kinematics of Rotation</text>
+      </navLabel>
+      <content src="book-Z-H-22.html#%_sec_2.2"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>2.3  Moments of Inertia</text>
+      </navLabel>
+      <content src="book-Z-H-23.html#%_sec_2.3"/>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>2.4  Inertia Tensor</text>
+      </navLabel>
+      <content src="book-Z-H-24.html#%_sec_2.4"/>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>2.5  Principal Moments of Inertia</text>
+      </navLabel>
+      <content src="book-Z-H-25.html#%_sec_2.5"/>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>2.6  Representation of the Angular Velocity Vector</text>
+      </navLabel>
+      <content src="book-Z-H-26.html#%_sec_2.6"/>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Implementation of angular velocity functions</text>
+      </navLabel>
+      <content src="book-Z-H-26.html#%_sec_Temp_190"/>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>2.7  Euler Angles</text>
+      </navLabel>
+      <content src="book-Z-H-27.html#%_sec_2.7"/>
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>2.8  Vector Angular Momentum</text>
+      </navLabel>
+      <content src="book-Z-H-28.html#%_sec_2.8"/>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>2.9  Motion of a Free Rigid Body</text>
+      </navLabel>
+      <content src="book-Z-H-29.html#%_sec_2.9"/>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Conserved quantities</text>
+      </navLabel>
+      <content src="book-Z-H-29.html#%_sec_Temp_193"/>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>2.9.1  Computing the Motion of Free Rigid Bodies</text>
+      </navLabel>
+      <content src="book-Z-H-29.html#%_sec_2.9.1"/>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>2.9.2  Qualitative Features of Free Rigid Body Motion</text>
+      </navLabel>
+      <content src="book-Z-H-29.html#%_sec_2.9.2"/>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>2.10  Axisymmetric Tops</text>
+      </navLabel>
+      <content src="book-Z-H-30.html#%_sec_2.10"/>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>2.11  Spin-Orbit Coupling</text>
+      </navLabel>
+      <content src="book-Z-H-31.html#%_sec_2.11"/>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>2.11.1  Development of the Potential Energy</text>
+      </navLabel>
+      <content src="book-Z-H-31.html#%_sec_2.11.1"/>
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>2.11.2  Rotation of the Moon and Hyperion</text>
+      </navLabel>
+      <content src="book-Z-H-31.html#%_sec_2.11.2"/>
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>2.12  Euler's Equations</text>
+      </navLabel>
+      <content src="book-Z-H-32.html#%_sec_2.12"/>
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>Euler's equations for forced rigid bodies</text>
+      </navLabel>
+      <content src="book-Z-H-32.html#%_sec_Temp_212"/>
+    </navPoint>
+    <navPoint id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>2.13  Nonsingular Generalized Coordinates</text>
+      </navLabel>
+      <content src="book-Z-H-33.html#%_sec_2.13"/>
+    </navPoint>
+    <navPoint id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>A practical matter</text>
+      </navLabel>
+      <content src="book-Z-H-33.html#%_sec_Temp_216"/>
+    </navPoint>
+    <navPoint id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>Composition of rotations</text>
+      </navLabel>
+      <content src="book-Z-H-33.html#%_sec_Temp_217"/>
+    </navPoint>
+    <navPoint id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>2.14  Summary</text>
+      </navLabel>
+      <content src="book-Z-H-34.html#%_sec_2.14"/>
+    </navPoint>
+    <navPoint id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>2.15  Projects</text>
+      </navLabel>
+      <content src="book-Z-H-35.html#%_sec_2.15"/>
+    </navPoint>
+    <navPoint id="navPoint-85" playOrder="85">
+      <navLabel>
+        <text>3  Hamiltonian Mechanics</text>
+      </navLabel>
+      <content src="book-Z-H-36.html#%_chap_3"/>
+    </navPoint>
+    <navPoint id="navPoint-86" playOrder="86">
+      <navLabel>
+        <text>3.1  Hamilton's Equations</text>
+      </navLabel>
+      <content src="book-Z-H-37.html#%_sec_3.1"/>
+    </navPoint>
+    <navPoint id="navPoint-87" playOrder="87">
+      <navLabel>
+        <text>Illustration</text>
+      </navLabel>
+      <content src="book-Z-H-37.html#%_sec_Temp_229"/>
+    </navPoint>
+    <navPoint id="navPoint-88" playOrder="88">
+      <navLabel>
+        <text>Hamiltonian state</text>
+      </navLabel>
+      <content src="book-Z-H-37.html#%_sec_Temp_232"/>
+    </navPoint>
+    <navPoint id="navPoint-89" playOrder="89">
+      <navLabel>
+        <text>Computing Hamilton's equations</text>
+      </navLabel>
+      <content src="book-Z-H-37.html#%_sec_Temp_235"/>
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>3.1.1  The Legendre Transformation</text>
+      </navLabel>
+      <content src="book-Z-H-37.html#%_sec_3.1.1"/>
+    </navPoint>
+    <navPoint id="navPoint-91" playOrder="91">
+      <navLabel>
+        <text>Legendre transformations with passive arguments</text>
+      </navLabel>
+      <content src="book-Z-H-37.html#%_sec_Temp_240"/>
+    </navPoint>
+    <navPoint id="navPoint-92" playOrder="92">
+      <navLabel>
+        <text>Hamilton's equations from the Legendre transformation</text>
+      </navLabel>
+      <content src="book-Z-H-37.html#%_sec_Temp_242"/>
+    </navPoint>
+    <navPoint id="navPoint-93" playOrder="93">
+      <navLabel>
+        <text>Legendre transforms of quadratic functions</text>
+      </navLabel>
+      <content src="book-Z-H-37.html#%_sec_Temp_244"/>
+    </navPoint>
+    <navPoint id="navPoint-94" playOrder="94">
+      <navLabel>
+        <text>Computing Hamiltonians</text>
+      </navLabel>
+      <content src="book-Z-H-37.html#%_sec_Temp_246"/>
+    </navPoint>
+    <navPoint id="navPoint-95" playOrder="95">
+      <navLabel>
+        <text>3.1.2  Hamilton's Equations from the Action Principle</text>
+      </navLabel>
+      <content src="book-Z-H-37.html#%_sec_3.1.2"/>
+    </navPoint>
+    <navPoint id="navPoint-96" playOrder="96">
+      <navLabel>
+        <text>3.1.3  A Wiring Diagram</text>
+      </navLabel>
+      <content src="book-Z-H-37.html#%_sec_3.1.3"/>
+    </navPoint>
+    <navPoint id="navPoint-97" playOrder="97">
+      <navLabel>
+        <text>3.2  Poisson Brackets</text>
+      </navLabel>
+      <content src="book-Z-H-38.html#%_sec_3.2"/>
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>Properties of the Poisson bracket</text>
+      </navLabel>
+      <content src="book-Z-H-38.html#%_sec_Temp_254"/>
+    </navPoint>
+    <navPoint id="navPoint-99" playOrder="99">
+      <navLabel>
+        <text>Poisson brackets of conserved quantities</text>
+      </navLabel>
+      <content src="book-Z-H-38.html#%_sec_Temp_255"/>
+    </navPoint>
+    <navPoint id="navPoint-100" playOrder="100">
+      <navLabel>
+        <text>3.3  One Degree of Freedom</text>
+      </navLabel>
+      <content src="book-Z-H-39.html#%_sec_3.3"/>
+    </navPoint>
+    <navPoint id="navPoint-101" playOrder="101">
+      <navLabel>
+        <text>3.4  Phase Space Reduction</text>
+      </navLabel>
+      <content src="book-Z-H-40.html#%_sec_3.4"/>
+    </navPoint>
+    <navPoint id="navPoint-102" playOrder="102">
+      <navLabel>
+        <text>Motion in a central potential</text>
+      </navLabel>
+      <content src="book-Z-H-40.html#%_sec_Temp_260"/>
+    </navPoint>
+    <navPoint id="navPoint-103" playOrder="103">
+      <navLabel>
+        <text>Axisymmetric top</text>
+      </navLabel>
+      <content src="book-Z-H-40.html#%_sec_Temp_261"/>
+    </navPoint>
+    <navPoint id="navPoint-104" playOrder="104">
+      <navLabel>
+        <text>3.4.1  Lagrangian Reduction</text>
+      </navLabel>
+      <content src="book-Z-H-40.html#%_sec_3.4.1"/>
+    </navPoint>
+    <navPoint id="navPoint-105" playOrder="105">
+      <navLabel>
+        <text>3.5  Phase Space Evolution</text>
+      </navLabel>
+      <content src="book-Z-H-41.html#%_sec_3.5"/>
+    </navPoint>
+    <navPoint id="navPoint-106" playOrder="106">
+      <navLabel>
+        <text>3.5.1  Phase-Space Description Is Not Unique</text>
+      </navLabel>
+      <content src="book-Z-H-41.html#%_sec_3.5.1"/>
+    </navPoint>
+    <navPoint id="navPoint-107" playOrder="107">
+      <navLabel>
+        <text>3.6  Surfaces of Section</text>
+      </navLabel>
+      <content src="book-Z-H-42.html#%_sec_3.6"/>
+    </navPoint>
+    <navPoint id="navPoint-108" playOrder="108">
+      <navLabel>
+        <text>3.6.1  Periodically Driven Systems</text>
+      </navLabel>
+      <content src="book-Z-H-42.html#%_sec_3.6.1"/>
+    </navPoint>
+    <navPoint id="navPoint-109" playOrder="109">
+      <navLabel>
+        <text>3.6.2  Computing Stroboscopic Surfaces of Section</text>
+      </navLabel>
+      <content src="book-Z-H-42.html#%_sec_3.6.2"/>
+    </navPoint>
+    <navPoint id="navPoint-110" playOrder="110">
+      <navLabel>
+        <text>3.6.3  Autonomous Systems</text>
+      </navLabel>
+      <content src="book-Z-H-42.html#%_sec_3.6.3"/>
+    </navPoint>
+    <navPoint id="navPoint-111" playOrder="111">
+      <navLabel>
+        <text>Hénon-Heiles background</text>
+      </navLabel>
+      <content src="book-Z-H-42.html#%_sec_Temp_270"/>
+    </navPoint>
+    <navPoint id="navPoint-112" playOrder="112">
+      <navLabel>
+        <text>The system of Hénon and Heiles</text>
+      </navLabel>
+      <content src="book-Z-H-42.html#%_sec_Temp_273"/>
+    </navPoint>
+    <navPoint id="navPoint-113" playOrder="113">
+      <navLabel>
+        <text>Interpretation</text>
+      </navLabel>
+      <content src="book-Z-H-42.html#%_sec_Temp_274"/>
+    </navPoint>
+    <navPoint id="navPoint-114" playOrder="114">
+      <navLabel>
+        <text>3.6.4  Computing Hénon-Heiles Surfaces of Section</text>
+      </navLabel>
+      <content src="book-Z-H-42.html#%_sec_3.6.4"/>
+    </navPoint>
+    <navPoint id="navPoint-115" playOrder="115">
+      <navLabel>
+        <text>3.6.5  Non-Axisymmetric Top</text>
+      </navLabel>
+      <content src="book-Z-H-42.html#%_sec_3.6.5"/>
+    </navPoint>
+    <navPoint id="navPoint-116" playOrder="116">
+      <navLabel>
+        <text>3.7  Exponential Divergence</text>
+      </navLabel>
+      <content src="book-Z-H-43.html#%_sec_3.7"/>
+    </navPoint>
+    <navPoint id="navPoint-117" playOrder="117">
+      <navLabel>
+        <text>3.8  Liouville's Theorem</text>
+      </navLabel>
+      <content src="book-Z-H-44.html#%_sec_3.8"/>
+    </navPoint>
+    <navPoint id="navPoint-118" playOrder="118">
+      <navLabel>
+        <text>The phase flow for the pendulum</text>
+      </navLabel>
+      <content src="book-Z-H-44.html#%_sec_Temp_277"/>
+    </navPoint>
+    <navPoint id="navPoint-119" playOrder="119">
+      <navLabel>
+        <text>Proof of Liouville's theorem</text>
+      </navLabel>
+      <content src="book-Z-H-44.html#%_sec_Temp_279"/>
+    </navPoint>
+    <navPoint id="navPoint-120" playOrder="120">
+      <navLabel>
+        <text>Area preservation of stroboscopic surfaces of section</text>
+      </navLabel>
+      <content src="book-Z-H-44.html#%_sec_Temp_281"/>
+    </navPoint>
+    <navPoint id="navPoint-121" playOrder="121">
+      <navLabel>
+        <text>Poincaré recurrence</text>
+      </navLabel>
+      <content src="book-Z-H-44.html#%_sec_Temp_282"/>
+    </navPoint>
+    <navPoint id="navPoint-122" playOrder="122">
+      <navLabel>
+        <text>The gas in the corner of the room</text>
+      </navLabel>
+      <content src="book-Z-H-44.html#%_sec_Temp_283"/>
+    </navPoint>
+    <navPoint id="navPoint-123" playOrder="123">
+      <navLabel>
+        <text>Nonexistence of attractors in Hamiltonian systems</text>
+      </navLabel>
+      <content src="book-Z-H-44.html#%_sec_Temp_285"/>
+    </navPoint>
+    <navPoint id="navPoint-124" playOrder="124">
+      <navLabel>
+        <text>Conservation of phase volume in a dissipative system</text>
+      </navLabel>
+      <content src="book-Z-H-44.html#%_sec_Temp_286"/>
+    </navPoint>
+    <navPoint id="navPoint-125" playOrder="125">
+      <navLabel>
+        <text>Distribution functions</text>
+      </navLabel>
+      <content src="book-Z-H-44.html#%_sec_Temp_289"/>
+    </navPoint>
+    <navPoint id="navPoint-126" playOrder="126">
+      <navLabel>
+        <text>3.9  Standard Map</text>
+      </navLabel>
+      <content src="book-Z-H-45.html#%_sec_3.9"/>
+    </navPoint>
+    <navPoint id="navPoint-127" playOrder="127">
+      <navLabel>
+        <text>3.10  Summary</text>
+      </navLabel>
+      <content src="book-Z-H-46.html#%_sec_3.10"/>
+    </navPoint>
+    <navPoint id="navPoint-128" playOrder="128">
+      <navLabel>
+        <text>3.11  Projects</text>
+      </navLabel>
+      <content src="book-Z-H-47.html#%_sec_3.11"/>
+    </navPoint>
+    <navPoint id="navPoint-129" playOrder="129">
+      <navLabel>
+        <text>4  Phase Space Structure</text>
+      </navLabel>
+      <content src="book-Z-H-48.html#%_chap_4"/>
+    </navPoint>
+    <navPoint id="navPoint-130" playOrder="130">
+      <navLabel>
+        <text>4.1  Emergence of the Divided Phase Space</text>
+      </navLabel>
+      <content src="book-Z-H-49.html#%_sec_4.1"/>
+    </navPoint>
+    <navPoint id="navPoint-131" playOrder="131">
+      <navLabel>
+        <text>Driven pendulum sections with zero drive</text>
+      </navLabel>
+      <content src="book-Z-H-49.html#%_sec_Temp_295"/>
+    </navPoint>
+    <navPoint id="navPoint-132" playOrder="132">
+      <navLabel>
+        <text>Driven pendulum sections for small drive</text>
+      </navLabel>
+      <content src="book-Z-H-49.html#%_sec_Temp_296"/>
+    </navPoint>
+    <navPoint id="navPoint-133" playOrder="133">
+      <navLabel>
+        <text>4.2  Linear Stability</text>
+      </navLabel>
+      <content src="book-Z-H-50.html#%_sec_4.2"/>
+    </navPoint>
+    <navPoint id="navPoint-134" playOrder="134">
+      <navLabel>
+        <text>4.2.1  Equilibria of Differential Equations</text>
+      </navLabel>
+      <content src="book-Z-H-50.html#%_sec_4.2.1"/>
+    </navPoint>
+    <navPoint id="navPoint-135" playOrder="135">
+      <navLabel>
+        <text>4.2.2  Fixed Points of Maps</text>
+      </navLabel>
+      <content src="book-Z-H-50.html#%_sec_4.2.2"/>
+    </navPoint>
+    <navPoint id="navPoint-136" playOrder="136">
+      <navLabel>
+        <text>4.2.3  Relations Among Exponents</text>
+      </navLabel>
+      <content src="book-Z-H-50.html#%_sec_4.2.3"/>
+    </navPoint>
+    <navPoint id="navPoint-137" playOrder="137">
+      <navLabel>
+        <text>Hamiltonian specialization</text>
+      </navLabel>
+      <content src="book-Z-H-50.html#%_sec_Temp_306"/>
+    </navPoint>
+    <navPoint id="navPoint-138" playOrder="138">
+      <navLabel>
+        <text>Linear and nonlinear stability</text>
+      </navLabel>
+      <content src="book-Z-H-50.html#%_sec_Temp_308"/>
+    </navPoint>
+    <navPoint id="navPoint-139" playOrder="139">
+      <navLabel>
+        <text>4.3  Homoclinic Tangle</text>
+      </navLabel>
+      <content src="book-Z-H-51.html#%_sec_4.3"/>
+    </navPoint>
+    <navPoint id="navPoint-140" playOrder="140">
+      <navLabel>
+        <text>4.3.1  Computation of Stable and Unstable Manifolds</text>
+      </navLabel>
+      <content src="book-Z-H-51.html#%_sec_4.3.1"/>
+    </navPoint>
+    <navPoint id="navPoint-141" playOrder="141">
+      <navLabel>
+        <text>4.4  Integrable Systems</text>
+      </navLabel>
+      <content src="book-Z-H-52.html#%_sec_4.4"/>
+    </navPoint>
+    <navPoint id="navPoint-142" playOrder="142">
+      <navLabel>
+        <text>Orbit types in integrable systems</text>
+      </navLabel>
+      <content src="book-Z-H-52.html#%_sec_Temp_312"/>
+    </navPoint>
+    <navPoint id="navPoint-143" playOrder="143">
+      <navLabel>
+        <text>Surfaces of section for integrable systems</text>
+      </navLabel>
+      <content src="book-Z-H-52.html#%_sec_Temp_315"/>
+    </navPoint>
+    <navPoint id="navPoint-144" playOrder="144">
+      <navLabel>
+        <text>4.5  Poincaré-Birkhoff Theorem</text>
+      </navLabel>
+      <content src="book-Z-H-53.html#%_sec_4.5"/>
+    </navPoint>
+    <navPoint id="navPoint-145" playOrder="145">
+      <navLabel>
+        <text>4.5.1  Computing the Poincaré-Birkhoff Construction</text>
+      </navLabel>
+      <content src="book-Z-H-53.html#%_sec_4.5.1"/>
+    </navPoint>
+    <navPoint id="navPoint-146" playOrder="146">
+      <navLabel>
+        <text>4.6  Invariant Curves</text>
+      </navLabel>
+      <content src="book-Z-H-54.html#%_sec_4.6"/>
+    </navPoint>
+    <navPoint id="navPoint-147" playOrder="147">
+      <navLabel>
+        <text>4.6.1  Finding Invariant Curves</text>
+      </navLabel>
+      <content src="book-Z-H-54.html#%_sec_4.6.1"/>
+    </navPoint>
+    <navPoint id="navPoint-148" playOrder="148">
+      <navLabel>
+        <text>4.6.2  Dissolution of Invariant Curves</text>
+      </navLabel>
+      <content src="book-Z-H-54.html#%_sec_4.6.2"/>
+    </navPoint>
+    <navPoint id="navPoint-149" playOrder="149">
+      <navLabel>
+        <text>4.7  Summary</text>
+      </navLabel>
+      <content src="book-Z-H-55.html#%_sec_4.7"/>
+    </navPoint>
+    <navPoint id="navPoint-150" playOrder="150">
+      <navLabel>
+        <text>4.8  Projects</text>
+      </navLabel>
+      <content src="book-Z-H-56.html#%_sec_4.8"/>
+    </navPoint>
+    <navPoint id="navPoint-151" playOrder="151">
+      <navLabel>
+        <text>5  Canonical Transformations</text>
+      </navLabel>
+      <content src="book-Z-H-57.html#%_chap_5"/>
+    </navPoint>
+    <navPoint id="navPoint-152" playOrder="152">
+      <navLabel>
+        <text>5.1  Point Transformations</text>
+      </navLabel>
+      <content src="book-Z-H-58.html#%_sec_5.1"/>
+    </navPoint>
+    <navPoint id="navPoint-153" playOrder="153">
+      <navLabel>
+        <text>Implementing point transformations</text>
+      </navLabel>
+      <content src="book-Z-H-58.html#%_sec_Temp_331"/>
+    </navPoint>
+    <navPoint id="navPoint-154" playOrder="154">
+      <navLabel>
+        <text>5.2  General Canonical Transformations</text>
+      </navLabel>
+      <content src="book-Z-H-59.html#%_sec_5.2"/>
+    </navPoint>
+    <navPoint id="navPoint-155" playOrder="155">
+      <navLabel>
+        <text>5.2.1  Time-Independent Canonical Transformations</text>
+      </navLabel>
+      <content src="book-Z-H-59.html#%_sec_5.2.1"/>
+    </navPoint>
+    <navPoint id="navPoint-156" playOrder="156">
+      <navLabel>
+        <text>Harmonic oscillator</text>
+      </navLabel>
+      <content src="book-Z-H-59.html#%_sec_Temp_338"/>
+    </navPoint>
+    <navPoint id="navPoint-157" playOrder="157">
+      <navLabel>
+        <text>5.2.2  Symplectic Transformations</text>
+      </navLabel>
+      <content src="book-Z-H-59.html#%_sec_5.2.2"/>
+    </navPoint>
+    <navPoint id="navPoint-158" playOrder="158">
+      <navLabel>
+        <text>5.2.3  Time-Dependent Transformations</text>
+      </navLabel>
+      <content src="book-Z-H-59.html#%_sec_5.2.3"/>
+    </navPoint>
+    <navPoint id="navPoint-159" playOrder="159">
+      <navLabel>
+        <text>Rotating coordinates</text>
+      </navLabel>
+      <content src="book-Z-H-59.html#%_sec_Temp_347"/>
+    </navPoint>
+    <navPoint id="navPoint-160" playOrder="160">
+      <navLabel>
+        <text>5.2.4  The Symplectic Condition</text>
+      </navLabel>
+      <content src="book-Z-H-59.html#%_sec_5.2.4"/>
+    </navPoint>
+    <navPoint id="navPoint-161" playOrder="161">
+      <navLabel>
+        <text>5.3  Invariants of Canonical Transformations</text>
+      </navLabel>
+      <content src="book-Z-H-60.html#%_sec_5.3"/>
+    </navPoint>
+    <navPoint id="navPoint-162" playOrder="162">
+      <navLabel>
+        <text>Noninvariance of </text>
+      </navLabel>
+      <content src="book-Z-H-60.html#%_sec_Temp_349"/>
+    </navPoint>
+    <navPoint id="navPoint-163" playOrder="163">
+      <navLabel>
+        <text>Invariance of Poisson brackets</text>
+      </navLabel>
+      <content src="book-Z-H-60.html#%_sec_Temp_350"/>
+    </navPoint>
+    <navPoint id="navPoint-164" playOrder="164">
+      <navLabel>
+        <text>Volume preservation</text>
+      </navLabel>
+      <content src="book-Z-H-60.html#%_sec_Temp_351"/>
+    </navPoint>
+    <navPoint id="navPoint-165" playOrder="165">
+      <navLabel>
+        <text>A bilinear form preserved by symplectic transformations</text>
+      </navLabel>
+      <content src="book-Z-H-60.html#%_sec_Temp_352"/>
+    </navPoint>
+    <navPoint id="navPoint-166" playOrder="166">
+      <navLabel>
+        <text>Poincaré integral invariants</text>
+      </navLabel>
+      <content src="book-Z-H-60.html#%_sec_Temp_354"/>
+    </navPoint>
+    <navPoint id="navPoint-167" playOrder="167">
+      <navLabel>
+        <text>5.4  Extended Phase Space</text>
+      </navLabel>
+      <content src="book-Z-H-61.html#%_sec_5.4"/>
+    </navPoint>
+    <navPoint id="navPoint-168" playOrder="168">
+      <navLabel>
+        <text>Restricted three-body problem</text>
+      </navLabel>
+      <content src="book-Z-H-61.html#%_sec_Temp_362"/>
+    </navPoint>
+    <navPoint id="navPoint-169" playOrder="169">
+      <navLabel>
+        <text>5.4.1  Poincaré-Cartan Integral Invariant</text>
+      </navLabel>
+      <content src="book-Z-H-61.html#%_sec_5.4.1"/>
+    </navPoint>
+    <navPoint id="navPoint-170" playOrder="170">
+      <navLabel>
+        <text>5.5  Reduced Phase Space</text>
+      </navLabel>
+      <content src="book-Z-H-62.html#%_sec_5.5"/>
+    </navPoint>
+    <navPoint id="navPoint-171" playOrder="171">
+      <navLabel>
+        <text>Orbits in a central field</text>
+      </navLabel>
+      <content src="book-Z-H-62.html#%_sec_Temp_365"/>
+    </navPoint>
+    <navPoint id="navPoint-172" playOrder="172">
+      <navLabel>
+        <text>5.6  Generating Functions</text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_5.6"/>
+    </navPoint>
+    <navPoint id="navPoint-173" playOrder="173">
+      <navLabel>
+        <text>The polar-canonical transformation</text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_Temp_367"/>
+    </navPoint>
+    <navPoint id="navPoint-174" playOrder="174">
+      <navLabel>
+        <text>5.6.1  </text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_5.6.1"/>
+    </navPoint>
+    <navPoint id="navPoint-175" playOrder="175">
+      <navLabel>
+        <text>5.6.2  Generating Functions and Integral Invariants</text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_5.6.2"/>
+    </navPoint>
+    <navPoint id="navPoint-176" playOrder="176">
+      <navLabel>
+        <text>Generating functions of type </text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_Temp_370"/>
+    </navPoint>
+    <navPoint id="navPoint-177" playOrder="177">
+      <navLabel>
+        <text>Generating functions of type </text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_Temp_374"/>
+    </navPoint>
+    <navPoint id="navPoint-178" playOrder="178">
+      <navLabel>
+        <text>Relationship between </text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_Temp_375"/>
+    </navPoint>
+    <navPoint id="navPoint-179" playOrder="179">
+      <navLabel>
+        <text>5.6.3  Types of Generating Functions</text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_5.6.3"/>
+    </navPoint>
+    <navPoint id="navPoint-180" playOrder="180">
+      <navLabel>
+        <text>Generating functions in extended phase space</text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_Temp_377"/>
+    </navPoint>
+    <navPoint id="navPoint-181" playOrder="181">
+      <navLabel>
+        <text>5.6.4  Point Transformations</text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_5.6.4"/>
+    </navPoint>
+    <navPoint id="navPoint-182" playOrder="182">
+      <navLabel>
+        <text>Polar and rectangular coordinates</text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_Temp_378"/>
+    </navPoint>
+    <navPoint id="navPoint-183" playOrder="183">
+      <navLabel>
+        <text>Rotating coordinates</text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_Temp_379"/>
+    </navPoint>
+    <navPoint id="navPoint-184" playOrder="184">
+      <navLabel>
+        <text>Two-body problem</text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_Temp_381"/>
+    </navPoint>
+    <navPoint id="navPoint-185" playOrder="185">
+      <navLabel>
+        <text>Epicyclic motion</text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_Temp_382"/>
+    </navPoint>
+    <navPoint id="navPoint-186" playOrder="186">
+      <navLabel>
+        <text>5.6.5  Classical ``Gauge'' Transformations</text>
+      </navLabel>
+      <content src="book-Z-H-63.html#%_sec_5.6.5"/>
+    </navPoint>
+    <navPoint id="navPoint-187" playOrder="187">
+      <navLabel>
+        <text>5.7  Time Evolution Is Canonical</text>
+      </navLabel>
+      <content src="book-Z-H-64.html#%_sec_5.7"/>
+    </navPoint>
+    <navPoint id="navPoint-188" playOrder="188">
+      <navLabel>
+        <text>Liouville's theorem, again</text>
+      </navLabel>
+      <content src="book-Z-H-64.html#%_sec_Temp_392"/>
+    </navPoint>
+    <navPoint id="navPoint-189" playOrder="189">
+      <navLabel>
+        <text>Another time-evolution transformation</text>
+      </navLabel>
+      <content src="book-Z-H-64.html#%_sec_Temp_393"/>
+    </navPoint>
+    <navPoint id="navPoint-190" playOrder="190">
+      <navLabel>
+        <text>5.7.1  Another View of Time Evolution</text>
+      </navLabel>
+      <content src="book-Z-H-64.html#%_sec_5.7.1"/>
+    </navPoint>
+    <navPoint id="navPoint-191" playOrder="191">
+      <navLabel>
+        <text>Area preservation of surfaces of section</text>
+      </navLabel>
+      <content src="book-Z-H-64.html#%_sec_Temp_399"/>
+    </navPoint>
+    <navPoint id="navPoint-192" playOrder="192">
+      <navLabel>
+        <text>5.7.2  Yet Another View of Time Evolution</text>
+      </navLabel>
+      <content src="book-Z-H-64.html#%_sec_5.7.2"/>
+    </navPoint>
+    <navPoint id="navPoint-193" playOrder="193">
+      <navLabel>
+        <text>5.8  Hamilton-Jacobi Equation</text>
+      </navLabel>
+      <content src="book-Z-H-65.html#%_sec_5.8"/>
+    </navPoint>
+    <navPoint id="navPoint-194" playOrder="194">
+      <navLabel>
+        <text>5.8.1  Harmonic Oscillator</text>
+      </navLabel>
+      <content src="book-Z-H-65.html#%_sec_5.8.1"/>
+    </navPoint>
+    <navPoint id="navPoint-195" playOrder="195">
+      <navLabel>
+        <text>5.8.2  Kepler Problem</text>
+      </navLabel>
+      <content src="book-Z-H-65.html#%_sec_5.8.2"/>
+    </navPoint>
+    <navPoint id="navPoint-196" playOrder="196">
+      <navLabel>
+        <text>5.8.3  </text>
+      </navLabel>
+      <content src="book-Z-H-65.html#%_sec_5.8.3"/>
+    </navPoint>
+    <navPoint id="navPoint-197" playOrder="197">
+      <navLabel>
+        <text>5.8.4  The Action Generates Time Evolution</text>
+      </navLabel>
+      <content src="book-Z-H-65.html#%_sec_5.8.4"/>
+    </navPoint>
+    <navPoint id="navPoint-198" playOrder="198">
+      <navLabel>
+        <text>5.9  Lie Transforms</text>
+      </navLabel>
+      <content src="book-Z-H-66.html#%_sec_5.9"/>
+    </navPoint>
+    <navPoint id="navPoint-199" playOrder="199">
+      <navLabel>
+        <text>Lie transforms of functions</text>
+      </navLabel>
+      <content src="book-Z-H-66.html#%_sec_Temp_408"/>
+    </navPoint>
+    <navPoint id="navPoint-200" playOrder="200">
+      <navLabel>
+        <text>Simple Lie transforms</text>
+      </navLabel>
+      <content src="book-Z-H-66.html#%_sec_Temp_410"/>
+    </navPoint>
+    <navPoint id="navPoint-201" playOrder="201">
+      <navLabel>
+        <text>Example</text>
+      </navLabel>
+      <content src="book-Z-H-66.html#%_sec_Temp_411"/>
+    </navPoint>
+    <navPoint id="navPoint-202" playOrder="202">
+      <navLabel>
+        <text>5.10  Lie Series</text>
+      </navLabel>
+      <content src="book-Z-H-67.html#%_sec_5.10"/>
+    </navPoint>
+    <navPoint id="navPoint-203" playOrder="203">
+      <navLabel>
+        <text>Dynamics</text>
+      </navLabel>
+      <content src="book-Z-H-67.html#%_sec_Temp_414"/>
+    </navPoint>
+    <navPoint id="navPoint-204" playOrder="204">
+      <navLabel>
+        <text>Computing Lie series</text>
+      </navLabel>
+      <content src="book-Z-H-67.html#%_sec_Temp_418"/>
+    </navPoint>
+    <navPoint id="navPoint-205" playOrder="205">
+      <navLabel>
+        <text>5.11  Exponential Identities</text>
+      </navLabel>
+      <content src="book-Z-H-68.html#%_sec_5.11"/>
+    </navPoint>
+    <navPoint id="navPoint-206" playOrder="206">
+      <navLabel>
+        <text>5.12  Summary</text>
+      </navLabel>
+      <content src="book-Z-H-69.html#%_sec_5.12"/>
+    </navPoint>
+    <navPoint id="navPoint-207" playOrder="207">
+      <navLabel>
+        <text>5.13  Projects</text>
+      </navLabel>
+      <content src="book-Z-H-70.html#%_sec_5.13"/>
+    </navPoint>
+    <navPoint id="navPoint-208" playOrder="208">
+      <navLabel>
+        <text>6  Canonical Perturbation Theory</text>
+      </navLabel>
+      <content src="book-Z-H-71.html#%_chap_6"/>
+    </navPoint>
+    <navPoint id="navPoint-209" playOrder="209">
+      <navLabel>
+        <text>6.1  Perturbation Theory with Lie Series</text>
+      </navLabel>
+      <content src="book-Z-H-72.html#%_sec_6.1"/>
+    </navPoint>
+    <navPoint id="navPoint-210" playOrder="210">
+      <navLabel>
+        <text>6.2  Pendulum as a Perturbed Rotor</text>
+      </navLabel>
+      <content src="book-Z-H-73.html#%_sec_6.2"/>
+    </navPoint>
+    <navPoint id="navPoint-211" playOrder="211">
+      <navLabel>
+        <text>6.2.1  Higher Order</text>
+      </navLabel>
+      <content src="book-Z-H-73.html#%_sec_6.2.1"/>
+    </navPoint>
+    <navPoint id="navPoint-212" playOrder="212">
+      <navLabel>
+        <text>6.2.2  Eliminating Secular Terms</text>
+      </navLabel>
+      <content src="book-Z-H-73.html#%_sec_6.2.2"/>
+    </navPoint>
+    <navPoint id="navPoint-213" playOrder="213">
+      <navLabel>
+        <text>6.3  Many Degrees of Freedom</text>
+      </navLabel>
+      <content src="book-Z-H-74.html#%_sec_6.3"/>
+    </navPoint>
+    <navPoint id="navPoint-214" playOrder="214">
+      <navLabel>
+        <text>6.3.1  Driven Pendulum as a Perturbed Rotor</text>
+      </navLabel>
+      <content src="book-Z-H-74.html#%_sec_6.3.1"/>
+    </navPoint>
+    <navPoint id="navPoint-215" playOrder="215">
+      <navLabel>
+        <text>6.4  Nonlinear Resonance</text>
+      </navLabel>
+      <content src="book-Z-H-75.html#%_sec_6.4"/>
+    </navPoint>
+    <navPoint id="navPoint-216" playOrder="216">
+      <navLabel>
+        <text>6.4.1  Pendulum Approximation</text>
+      </navLabel>
+      <content src="book-Z-H-75.html#%_sec_6.4.1"/>
+    </navPoint>
+    <navPoint id="navPoint-217" playOrder="217">
+      <navLabel>
+        <text>Driven pendulum resonances</text>
+      </navLabel>
+      <content src="book-Z-H-75.html#%_sec_Temp_428"/>
+    </navPoint>
+    <navPoint id="navPoint-218" playOrder="218">
+      <navLabel>
+        <text>6.4.2  Reading the Hamiltonian</text>
+      </navLabel>
+      <content src="book-Z-H-75.html#%_sec_6.4.2"/>
+    </navPoint>
+    <navPoint id="navPoint-219" playOrder="219">
+      <navLabel>
+        <text>6.4.3  Resonance-Overlap Criterion</text>
+      </navLabel>
+      <content src="book-Z-H-75.html#%_sec_6.4.3"/>
+    </navPoint>
+    <navPoint id="navPoint-220" playOrder="220">
+      <navLabel>
+        <text>6.4.4  Higher-Order Perturbation Theory</text>
+      </navLabel>
+      <content src="book-Z-H-75.html#%_sec_6.4.4"/>
+    </navPoint>
+    <navPoint id="navPoint-221" playOrder="221">
+      <navLabel>
+        <text>6.4.5  Stability of the Inverted Vertical Equilibrium</text>
+      </navLabel>
+      <content src="book-Z-H-75.html#%_sec_6.4.5"/>
+    </navPoint>
+    <navPoint id="navPoint-222" playOrder="222">
+      <navLabel>
+        <text>6.5  Summary</text>
+      </navLabel>
+      <content src="book-Z-H-76.html#%_sec_6.5"/>
+    </navPoint>
+    <navPoint id="navPoint-223" playOrder="223">
+      <navLabel>
+        <text>6.6  Projects</text>
+      </navLabel>
+      <content src="book-Z-H-77.html#%_sec_6.6"/>
+    </navPoint>
+    <navPoint id="navPoint-224" playOrder="224">
+      <navLabel>
+        <text>7  Appendix: Scheme</text>
+      </navLabel>
+      <content src="book-Z-H-78.html#%_chap_7"/>
+    </navPoint>
+    <navPoint id="navPoint-225" playOrder="225">
+      <navLabel>
+        <text>Procedure calls</text>
+      </navLabel>
+      <content src="book-Z-H-78.html#%_sec_Temp_434"/>
+    </navPoint>
+    <navPoint id="navPoint-226" playOrder="226">
+      <navLabel>
+        <text>Lambda expressions</text>
+      </navLabel>
+      <content src="book-Z-H-78.html#%_sec_Temp_437"/>
+    </navPoint>
+    <navPoint id="navPoint-227" playOrder="227">
+      <navLabel>
+        <text>Definitions</text>
+      </navLabel>
+      <content src="book-Z-H-78.html#%_sec_Temp_439"/>
+    </navPoint>
+    <navPoint id="navPoint-228" playOrder="228">
+      <navLabel>
+        <text>Conditionals</text>
+      </navLabel>
+      <content src="book-Z-H-78.html#%_sec_Temp_442"/>
+    </navPoint>
+    <navPoint id="navPoint-229" playOrder="229">
+      <navLabel>
+        <text>Recursive procedures</text>
+      </navLabel>
+      <content src="book-Z-H-78.html#%_sec_Temp_443"/>
+    </navPoint>
+    <navPoint id="navPoint-230" playOrder="230">
+      <navLabel>
+        <text>Local names</text>
+      </navLabel>
+      <content src="book-Z-H-78.html#%_sec_Temp_444"/>
+    </navPoint>
+    <navPoint id="navPoint-231" playOrder="231">
+      <navLabel>
+        <text>Compound data -- lists and vectors</text>
+      </navLabel>
+      <content src="book-Z-H-78.html#%_sec_Temp_445"/>
+    </navPoint>
+    <navPoint id="navPoint-232" playOrder="232">
+      <navLabel>
+        <text>Symbols</text>
+      </navLabel>
+      <content src="book-Z-H-78.html#%_sec_Temp_447"/>
+    </navPoint>
+    <navPoint id="navPoint-233" playOrder="233">
+      <navLabel>
+        <text>8  Appendix: Our Notation</text>
+      </navLabel>
+      <content src="book-Z-H-79.html#%_chap_8"/>
+    </navPoint>
+    <navPoint id="navPoint-234" playOrder="234">
+      <navLabel>
+        <text>Functions</text>
+      </navLabel>
+      <content src="book-Z-H-79.html#%_sec_Temp_448"/>
+    </navPoint>
+    <navPoint id="navPoint-235" playOrder="235">
+      <navLabel>
+        <text>Symbolic values</text>
+      </navLabel>
+      <content src="book-Z-H-79.html#%_sec_Temp_449"/>
+    </navPoint>
+    <navPoint id="navPoint-236" playOrder="236">
+      <navLabel>
+        <text>Tuples</text>
+      </navLabel>
+      <content src="book-Z-H-79.html#%_sec_Temp_450"/>
+    </navPoint>
+    <navPoint id="navPoint-237" playOrder="237">
+      <navLabel>
+        <text>Derivatives</text>
+      </navLabel>
+      <content src="book-Z-H-79.html#%_sec_Temp_452"/>
+    </navPoint>
+    <navPoint id="navPoint-238" playOrder="238">
+      <navLabel>
+        <text>Derivatives of functions of multiple arguments</text>
+      </navLabel>
+      <content src="book-Z-H-79.html#%_sec_Temp_453"/>
+    </navPoint>
+    <navPoint id="navPoint-239" playOrder="239">
+      <navLabel>
+        <text>Structured results</text>
+      </navLabel>
+      <content src="book-Z-H-79.html#%_sec_Temp_454"/>
+    </navPoint>
+    <navPoint id="navPoint-240" playOrder="240">
+      <navLabel>
+        <text>Bibliography</text>
+      </navLabel>
+      <content src="book-Z-H-80.html#%_chap_Temp_457"/>
+    </navPoint>
+    <navPoint id="navPoint-241" playOrder="241">
+      <navLabel>
+        <text>List of Exercises</text>
+      </navLabel>
+      <content src="book-Z-H-81.html#%_chap_Temp_458"/>
+    </navPoint>
+    <navPoint id="navPoint-242" playOrder="242">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="book-Z-H-82.html#%_chap_Temp_459"/>
+    </navPoint>
+  </navMap>
+</ncx>
